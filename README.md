@@ -9,4 +9,4 @@
 [![My Skills](https://skillicons.dev/icons?i=vscode,cs,ts,js,react,unity&perline=10)](https://skillicons.dev)
 
 ## Pretendo estudar
-[![My Skills](https://skillicons.dev/icons?i=cpp,c,dotnet,py,java,nodejs&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,c,dotnet,py,java,nodejs,unreal&perline=10)](https://skillicons.dev)
