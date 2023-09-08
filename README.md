@@ -9,7 +9,7 @@
 -->
 
 ## Tecnologias que eu uso
-[![My Skills](https://skillicons.dev/icons?i=vscode,cs,ts,js,aws,git,github,docker,nodejs,nestjs,mongodb,react,unity&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,cs,ts,js,aws,git,github,docker,nodejs,expressjs,nestjs,mongodb,react,unity&perline=10)](https://skillicons.dev)
 
 ## Pretendo estudar
 [![My Skills](https://skillicons.dev/icons?i=cpp,c,dotnet,py,java,unreal&perline=10)](https://skillicons.dev)
