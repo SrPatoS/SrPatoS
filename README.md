@@ -5,4 +5,4 @@
 -->
 
 ## Tecnologias que eu uso
-[![My Skills](https://skillicons.dev/icons?i=aws,gcp,cs,js,ts,mongodb,redis,unity,nextjs,nodejs,docker,express,firebase,git,idea,vscode,react&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,cs,js,ts,mongodb,redis,unity,nextjs,nodejs,docker,express,firebase,git,idea,vscode,react&perline=5)](https://skillicons.dev)
