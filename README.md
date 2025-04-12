@@ -10,6 +10,6 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SrPatoS&show_icons=true&theme=dark" height="300" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SrPatoS&layout=donut-vertical&theme=dark" height="300" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SrPatoS&show_icons=true&theme=dark" height="250" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SrPatoS&layout=donut-vertical&theme=dark" height="250" />
 </p>
