@@ -1,16 +1,15 @@
-## Hi there 👋
+<h1 align="center">👋 Olá, me chamo Vinicius</h1>
 
-<!--
-**SrPatoS/SrPatoS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🧰 Tecnologias e Ferramentas que uso
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,docker,js,ts,angular,nodejs,webstorm" />
+  </a>
+</p>
 
-Here are some ideas to get you started:
+## 📈 GitHub Stats
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SrPatoS&show_icons=true&theme=dark" height="300" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SrPatoS&layout=donut-vertical&theme=dark" height="300" />
+</p>
